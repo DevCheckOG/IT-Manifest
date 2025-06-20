@@ -8,6 +8,8 @@ One of those problems is due to the oversaturation of these, the massification o
 
 And as juniors increasingly fail to stand out and resign themselves to working on generic projects at astronomical rates, they are, according to the recruiter's criteria, a perfect "candidate", which is reflected in a __**lack of talent**__ and a trait of pure human automation. As if humans were robots.
 
+This generates an explosion of talentless people, who are honed to the core by their upbringing. Generic, who don't innovate and are left going around in circles. Although this isn't entirely their fault, much of it depends on how that child developed and what they are now.
+
 ## Sources 
 
 Many of the sources of these problems go beyond programming, education, its extreme automation, the system, the leap of stupidity of people, factory ineptitude, influence by the world that surrounds us, the rarity of the intelligent, and the rise of irrelevant things in entertainment.
