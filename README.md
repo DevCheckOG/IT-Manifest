@@ -1,4 +1,4 @@
-# Kevin Benavides | Manifest
+# Kevin Benavides | IT Manifest
 
 This represents my thoughts on the IT industry, with an emphasis on programming and how it is constantly evolving and changing, for good and bad reasons.
 
