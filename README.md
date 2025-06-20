@@ -21,6 +21,6 @@ This represents my thoughts on the IT industry, with an emphasis on programming 
 
 ### Ineptitude
 
-- **Ineptitude** - We will discuss the rise of incompetence, loss of curiosity, lack of innate talent, and the development of flat minds with flat dreams.
+- **Ineptitude** - We will discuss the **rise of incompetence**, **loss of curiosity**, **lack of innate talent**, and the development of **flat minds with flat dreams**.
 
 **ARCHIVE:** **[Ineptitude.md](https://github.com/DevCheckOG/IT-Manifest/blob/master/manifest/Ineptitude.md)**
