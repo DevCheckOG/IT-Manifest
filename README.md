@@ -1,0 +1,20 @@
+# Kevin Benavides | Manifest
+
+This represents my thoughts on the IT industry, with an emphasis on programming and how it is constantly evolving and changing, for good and bad reasons.
+
+> [!WARNING]  
+> This is a completely personal opinion, it is not recommended to take these as 100% true.
+
+### Content
+
+#### Artificial intelligence
+
+- **AI** (Artificial intelligence) - We talk about how it will affect the future of programming and whether it has already reached the limit for it to be about to explode.
+
+#### ARCHIVE: 
+
+#### Jobs
+
+- **Jobs** - We'll discuss the deplorable state of IT jobs, with a focus on programmers, a lack of innate talent, and absurd requirements.
+
+#### ARCHIVE: 

@@ -1,0 +1,3 @@
+## Rise in incompetence, the loss of curiosity, and the oversaturation
+
+There's a major problem with the arrival of new juniors into the market in the approach to programmers. One of those problems is due to the oversaturation of these, the massification of bootcamps, and their sheer salesmanship. And as juniors increasingly fail to stand out and resign themselves to working on generic projects at astronomical rates, they are, according to the recruiter's criteria, a perfect "candidate," which is reflected in a lack of talent and a trait of pure human automation. As if humans were robots.
