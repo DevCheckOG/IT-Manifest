@@ -7,14 +7,14 @@ This represents my thoughts on the IT industry, with an emphasis on programming 
 
 ### Content
 
-#### Artificial intelligence
+### Artificial intelligence
 
 - **AI** (Artificial intelligence) - We talk about how it will affect the future of programming and whether it has already reached the limit for it to be about to explode.
 
-#### ARCHIVE: 
+**ARCHIVE:** AI.md
 
-#### Jobs
+### Jobs
 
-- **Jobs** - We'll discuss the deplorable state of IT jobs, with a focus on programmers, a lack of innate talent, and absurd requirements.
+- **Tech Jobs** - We'll discuss the deplorable state of IT jobs, with a focus on programmers, a lack of innate talent, and absurd requirements.
 
 #### ARCHIVE: 
