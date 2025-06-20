@@ -11,16 +11,16 @@ This represents my thoughts on the IT industry, with an emphasis on programming 
 
 - **AI** (Artificial intelligence) - We talk about how it will affect the future of programming and whether it has already reached the limit for it to be about to explode.
 
-**ARCHIVE:** AI.md
+**ARCHIVE:** **[AI.md](https://github.com/DevCheckOG/IT-Manifest/blob/main/manifest/AI.md)**
 
 ### Jobs
 
 - **Tech Jobs** - We'll discuss the deplorable state of IT jobs, with a focus on programmers, a lack of innate talent, and absurd requirements.
 
-**ARCHIVE:** Jobs.md
+**ARCHIVE:** **[Jobs.md](https://github.com/DevCheckOG/IT-Manifest/blob/main/manifest/Jobs.md)**
 
 ### Ineptitude
 
 - **Ineptitude** - We will discuss the rise of incompetence, loss of curiosity, lack of innate talent, and the development of flat minds with flat dreams.
 
-**ARCHIVE:** Ineptitude.md
+**ARCHIVE:** **[Ineptitude.md](https://github.com/DevCheckOG/IT-Manifest/blob/main/manifest/Ineptitude.md)**
