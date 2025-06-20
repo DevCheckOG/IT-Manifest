@@ -10,9 +10,11 @@ But here's the problem. At the same time they engage in this terrible and despic
 
 This leads to beginners feeling incapable of achieving a job in a particular way. This is a cancer, but unfortunately, like many types of cancer, it is very difficult to remove.
 
+This also contributes to the development of conceited and narcissistic individuals. Those who are already employed by a certain company feel untouchable, but they must remember that the company always considers you replaceable, especially if you're not a talented individual. And that must hurt, but that's what comes from having a flat mindset from childhood.
+
 ## Sources
 
-The main cause of these problems is often the recruiters' lack of applicable computer skills in the field in which they are offering the position. In addition to this gap, it's also due to the problem of being practically slaves: they do more, they pay less. 
+The main cause of these problems is often the recruiter's lack of applicable computer skills in the field in which they are offering the position. In addition to this gap, it's also due to the problem of being practically slaves: they do more, they pay less. 
 
 This is partly due to "headhunting" companies, which aren't really headhunters; they are more like "needs-based headhunters," seeking highly skilled developers with far below-average requirements. While this is a skill, no one should be undervalued.
 
