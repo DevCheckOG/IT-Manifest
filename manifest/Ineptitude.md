@@ -12,7 +12,7 @@ And as juniors increasingly fail to stand out and resign themselves to working o
 
 Many of the sources of these problems go beyond programming, education, its extreme automation, the system, the leap of stupidity of people, factory ineptitude, influence by the world that surrounds us, the rarity of the intelligent, and the rise of irrelevant things in entertainment.
 
-Other sources come from social, economic, and racial areas, which, through influence on the educational and political system, lead to a disastrous future development of engineering candidates.
+Ovther sources come from social, economic, and racial areas, which, through influence on the educational and political system, lead to a disastrous future development of engineering candidates.
 
 Much of the blame lies with the content we consume and its automation, resulting in a decline in quality. This highlights people's lack of curiosity and ambition, keeping their brains "busy" with junk content.
 
